@@ -1,0 +1,42 @@
+**{
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+.container {
+  width: 100%;
+  height: 100vh;
+  background-color: #95adad80;
+}
+form {
+  position: absolute
+  
+}
+
+.inpux {
+  width: 250px;
+  height: 30px;
+  border-radius: 8px;
+  border: none;
+  background-color: #fff;
+  margin: 200px 600px;
+  padding: 10px;
+}
+.loc{
+  position: relative;
+  top: 190px;
+  left: 690px;
+}
+
+.temp {
+  position: relative;
+    bottom: 200px;
+    left: 690px;
+}
+
+.tempdes {
+  position: relative;
+  bottom: 195px;
+  left: 690px;
+}
